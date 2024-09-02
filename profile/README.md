@@ -1,45 +1,29 @@
-# Código de Conducta de Cavern Services
+# Bienvenido a Cavern Services
 
-## Introducción
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CavernServices&label=Profile%20views&color=0e75b6&style=flat" alt="CavernServices" /> </p>
 
-Cavern Services valoriza el comportamiento positivo y respetuoso entre todos los miembros de nuestra comunidad. Este código de conducta establece normas de comportamiento esperadas y prohibidas para todos los participantes en proyectos Cavern Services, tanto en presencia física como virtual.
+¡Gracias por interesarte en unirte a Cavern Services!
 
-## Comportamiento Esperado
+## ¿Cómo seguirnos?
 
-Los miembros de Cavern Services se comprometen a:
-- Tratar a otros con respeto y amabilidad
-- Ser inclusivos y acogedores hacia todas las personas, independientemente de su raza, género, orientación sexual, discapacidad, apariencia física, origen étnico, religión, u otras características personales
-- Respetar las diferencias individuales y culturales
-- Mantener un ambiente profesional y respetuoso durante reuniones y comunicaciones
+Puedes encontrar nuestro contenido en los siguientes lugares:
 
-## Comportamiento Prohibido
+- **GitHub**: https://github.com/CavernServices
+- **Discord**: Únete a nuestro servidor oficial en Discord: https://discord.cavernservices.org
+- **Twitter**: Sigue nuestras actualizaciones en Twitter: @CavernServices
 
-Se prohíbe cualquier comportamiento que:
-- Sea discriminatorio o hostil basado en características personales
-- Incite violencia verbal o física
-- Incluya lenguaje ofensivo o grosero
-- Interfiera con el trabajo o bienestar de otros
-- Viole las políticas de confidencialidad y protección de datos
+## ¿Cómo unirte a la organización?
 
-## Consecuencias
+Para unirte a Cavern Services, sigue estos pasos:
 
-Cavern Services tomará medidas apropiadas para manejar situaciones que violen este código de conducta. Estas pueden incluir, pero no están limitadas a:
-- Revisión de acceso a recursos de la organización
-- Suspensión temporal de participación en proyectos
-- Expulsión permanente del proyecto o comunidad
+1. Visita nuestra página de GitHub: https://github.com/CavernServices
+2. Haz clic en el botón "Join" en la parte superior derecha de la página
+3. Ingresa tus detalles de cuenta GitHub y acepta nuestros términos de uso
 
-## Aplicación
+## Información adicional
 
-Este código de conducta se aplicará a todos los proyectos de Cavern Services, incluyendo, pero no limitándose a:
-- Reuniones virtuales
-- Discusiones en plataformas de colaboración
-- Contribuciones de código abierto
-- Eventos organizados por Cavern Services
+- Nuestro código de conducta está disponible aquí: [Enlace al código de conducta]
+- Tenemos un canal de Slack dedicado para la comunicación rápida: https://slack.cavernservices.org
+- Si tienes alguna pregunta, no dudes en contactar a los administradores de la organización
 
-## Actualización
-
-Este código de conducta puede ser revisado y actualizado por la dirección de Cavern Services. Los cambios significativos requerirán aprobación de la mayoría de los miembros activos de la organización.
-
-## Contacto
-
-Para reportar incidentes o preguntar sobre este código de conducta, comunícate con los administradores de Cavern Services.
+¡Bienvenido a la familia Cavern Services!
